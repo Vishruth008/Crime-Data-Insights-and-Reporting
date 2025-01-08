@@ -1,5 +1,5 @@
 
-## Crime Data Insights and Reporting
+# Crime Data Insights and Reporting
 This repository contains a Jupyter Notebook demonstrating the analysis and cleaning of a crime-related dataset. The project focuses on preparing the data for robust analytical studies by ensuring its integrity and usability for identifying trends and patterns in crime incidents.
 
 Project Overview
